@@ -70,9 +70,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-pour utiliser ce code
-
-1-- télécharger projet 
-2-- Ouvert projet
-3-- Écrivez ce code (npm install) dans le terminal 
-4-- finalement npm start 
