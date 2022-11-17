@@ -43,6 +43,7 @@ code {
   align-items: center;
   border-radius: 10px;
   padding: 5px;
+  margin: auto;
 }
 
 .total{

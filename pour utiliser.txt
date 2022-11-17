@@ -1,0 +1,6 @@
+----------pour utiliser ce code----------
+
+1-- télécharger projet 
+2-- Ouvert projet
+3-- Écrivez ce code (npm install) dans le terminal 
+4-- finalement npm start 

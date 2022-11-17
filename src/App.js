@@ -8,6 +8,7 @@ import CartItemsP from "./components/CartItems";
 import NavBar from "./components/NavBar";
 import { ShoppingContext } from "./components/Context/ShoppingContext";
 import NotFound from "./components/PageNotFound/NotFound";
+import ShowProdct from "./components/ShowProdct";
 
 
 function App() {
@@ -119,6 +120,10 @@ function App() {
           <Route
             path="/*"
             element={<NotFound  />}
+          />
+          <Route
+            path="/show"
+            element={< ShowProdct />}
           />
         </Routes>
       </div>
